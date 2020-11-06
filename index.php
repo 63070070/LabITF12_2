@@ -12,7 +12,7 @@
         <div class="row">
         <div class="col-sm-4">
             <div class="card">
-                <img class="card-img-top" src="img/lol-1.jpg" style="height: 100%;">
+                <img class="card-img-top" src="lol-1.jpg" style="height: 100%;">
                 <div class="card-body">
                     <h4 class="card-title">Akali</h4>
                     <p class="card-text">LoL Champion<p>
@@ -22,7 +22,7 @@
         </div>
         <div class="col-sm-4">
             <div class="card">
-                <img class="card-img-top" src="img/lol-2.png" >
+                <img class="card-img-top" src="lol-2.png" >
                 <div class="card-body">
                     <h4 class="card-title">Yasuo</h4>
                     <p class="card-text">LoL Champion<p>
@@ -32,7 +32,7 @@
         </div>
         <div class="col-sm-4">
             <div class="card">
-                <img class="card-img-top" src="img/lol-3.jpg" >
+                <img class="card-img-top" src="lol-3.jpg" >
                 <div class="card-body">
                     <h4 class="card-title">Pyke</h4>
                     <p class="card-text">LoL Champion<p>
